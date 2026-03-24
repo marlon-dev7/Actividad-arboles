@@ -36,7 +36,7 @@ class ArbolBinario {
         return nodo; // Retorna el nodo actualizado
     }
 
-    // Método para recorrer el árbol en inorden (izq - raíz - der)
+    // Método para recorrer el árbol en inorden
     void inorden(Nodo nodo) {
 
         // Verifica que el nodo no sea null
